@@ -1,0 +1,2 @@
+# save file  not  replace LF by CRLF in windows system
+git config --global core.autocrlf false
